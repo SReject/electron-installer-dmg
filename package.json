@@ -32,7 +32,7 @@
     "minimist": "^1.1.1"
   },
   "optionalDependencies": {
-    "appdmg": "^0.6.4"
+    "appdmg": "github:SReject/node-appdmg/commit/1f5eaeb054a74ec917db7c75a8619b6d009f0f73"
   },
   "license": "Apache-2.0",
   "devDependencies": {
